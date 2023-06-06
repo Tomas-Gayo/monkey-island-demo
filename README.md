@@ -4,14 +4,14 @@ Este juego es una pequeña adaptación de un nivel de la conocida aventura gráf
 
 ## Index
 
-- [Cómo jugar](https://gitlab.com/Tomas-Gayo/pec1_adventure_game/-/blob/main/adventure-game/README.md#c%C3%B3mo-jugar)
-- [Escenas](https://gitlab.com/Tomas-Gayo/pec1_adventure_game/-/blob/main/adventure-game/README.md#escenas)
-- [Demo](https://gitlab.com/Tomas-Gayo/pec1_adventure_game/-/blob/main/adventure-game/README.md#demo)
-- [Estructura de carpetas](https://gitlab.com/Tomas-Gayo/pec1_adventure_game/-/blob/main/adventure-game/README.md#estructura-de-carpetas)
-- [Máquina de estados](https://gitlab.com/Tomas-Gayo/pec1_adventure_game/-/blob/main/adventure-game/README.md#m%C3%A1quina-de-estados)
-- [Funcionamiento de JSON](https://gitlab.com/Tomas-Gayo/pec1_adventure_game/-/blob/main/adventure-game/README.md#funcionamiento-de-json)
-- [Animaciones y sonidos](https://gitlab.com/Tomas-Gayo/pec1_adventure_game/-/blob/main/adventure-game/README.md#animaciones-y-sonidos)
-- [Atribuciones](https://gitlab.com/Tomas-Gayo/pec1_adventure_game/-/blob/main/adventure-game/README.md#atribuciones)
+- [Cómo jugar](https://github.com/Tomas-Gayo/monkey-island-demo/blob/main/README.md#c%C3%B3mo-jugar)
+- [Escenas](https://github.com/Tomas-Gayo/pec1_adventure_game/-/blob/main/adventure-game/README.md#escenas)
+- [Demo](https://github.com/Tomas-Gayo/pec1_adventure_game/-/blob/main/adventure-game/README.md#demo)
+- [Estructura de carpetas](https://github.com/Tomas-Gayo/pec1_adventure_game/-/blob/main/adventure-game/README.md#estructura-de-carpetas)
+- [Máquina de estados](https://github.com/Tomas-Gayo/pec1_adventure_game/-/blob/main/adventure-game/README.md#m%C3%A1quina-de-estados)
+- [Funcionamiento de JSON](https://github.com/Tomas-Gayo/pec1_adventure_game/-/blob/main/adventure-game/README.md#funcionamiento-de-json)
+- [Animaciones y sonidos](https://github.com/Tomas-Gayo/pec1_adventure_game/-/blob/main/adventure-game/README.md#animaciones-y-sonidos)
+- [Atribuciones](https://github.com/Tomas-Gayo/pec1_adventure_game/-/blob/main/adventure-game/README.md#atribuciones)
 
 ## Cómo jugar
 
