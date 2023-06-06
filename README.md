@@ -1,4 +1,4 @@
-# PEC1_Adventure_Game
+# Monkey Island Demo
 
 Este juego es una pequeña adaptación de un nivel de la conocida aventura gráfica "The secret of Monkey Island". En esta ocasión la trama ocurre en la montaña y consiste en la discusión entre un guardabosques (protagonista) y un pastor (enemigo). Básicamente, el pastor cansado de perder obejas en el bosque, se pelea con el protagonista para que haga bien su trabajo y encuentre a sus animales. Obviamente, nuestro personaje no se quedará atrás e intentará ganar la batalla hasta que uno de los dos se quede sin vidas.
 
