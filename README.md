@@ -5,7 +5,7 @@ Este juego es una pequeña adaptación de un nivel de la conocida aventura gráf
 ## Index
 
 - [Cómo jugar](https://github.com/Tomas-Gayo/monkey-island-demo/blob/main/README.md#c%C3%B3mo-jugar)
-- [Escenas](https://github.com/Tomas-Gayo/pec1_adventure_game/-/blob/main/adventure-game/README.md#escenas)
+- [Escenas](https://github.com/Tomas-Gayo/monkey-island-demo/blob/main/README.md#escenas)
 - [Demo](https://github.com/Tomas-Gayo/pec1_adventure_game/-/blob/main/adventure-game/README.md#demo)
 - [Estructura de carpetas](https://github.com/Tomas-Gayo/pec1_adventure_game/-/blob/main/adventure-game/README.md#estructura-de-carpetas)
 - [Máquina de estados](https://github.com/Tomas-Gayo/pec1_adventure_game/-/blob/main/adventure-game/README.md#m%C3%A1quina-de-estados)
