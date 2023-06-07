@@ -20,7 +20,7 @@ Las mecánicas son sencillas. Hay dos tipos de turnos: turno del jugador y turno
 
 El juego se ha publicado en itch.io, [prueba el juego en su versión Web](https://toyoerin.itch.io/adventuregame).
 
-También podéis ver la [demostración del juego en video](https://youtu.be/0CzynyenGcI) en Youtube para su versión de PC y Android. 
+También podéis ver la [demostración del juego en video](https://youtu.be/6wRZfPGGVek) en Youtube para su versión de PC y Android. 
 
 ## Atribuciones
 
